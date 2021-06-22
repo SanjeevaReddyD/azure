@@ -49,7 +49,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "src_txt",
+						"referenceName": "datasetmultipulefile",
 						"type": "DatasetReference"
 					}
 				],
